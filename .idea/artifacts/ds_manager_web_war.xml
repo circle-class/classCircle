@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ds-manager-web:war">
+    <output-path>$PROJECT_DIR$/ds-manager/ds-manager-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ds-manager-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ds-manager-web.war">
+      <element id="artifact" artifact-name="ds-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ds-common/ds-common.iml" filepath="$PROJECT_DIR$/ds-common/ds-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manager.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manager-dao/ds-manager-dao.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manager-dao/ds-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manager-pojo/ds-manager-pojo.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manager-pojo/ds-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manager-service/ds-manager-service.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manager-service/ds-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manager-serviceimpl/ds-manager-serviceimpl.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manager-serviceimpl/ds-manager-serviceimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-manager/ds-manager-web/ds-manager-web.iml" filepath="$PROJECT_DIR$/ds-manager/ds-manager-web/ds-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-parent/ds-parent.iml" filepath="$PROJECT_DIR$/ds-parent/ds-parent.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ds-common" />
+        <module name="ds-manager-dao" />
+        <module name="ds-manager-pojo" />
+        <module name="ds-manager-service" />
+        <module name="ds-manager-serviceimpl" />
+        <module name="ds-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ds-common" target="1.5" />
+      <module name="ds-manager" target="1.5" />
+      <module name="ds-manager-dao" target="1.5" />
+      <module name="ds-manager-pojo" target="1.5" />
+      <module name="ds-manager-service" target="1.5" />
+      <module name="ds-manager-serviceimpl" target="1.5" />
+      <module name="ds-manager-web" target="1.8" />
+      <module name="ds-parent" target="1.5" />
+      <module name="dsmanagerdao" target="1.5" />
+      <module name="dsmanagerweb" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
